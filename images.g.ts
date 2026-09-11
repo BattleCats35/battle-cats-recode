@@ -1,0 +1,86 @@
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "image2":
+            case "BASIC CAT":return img`
+ffffffffffffffffffffffff
+f11111f111111ffffffffbbf
+f111111f1111f11111111fbf
+f1111111f11f111111111bff
+f11111111ff1111111111bff
+f111111111f1f11111f11bff
+f111111111f1f11111f11bff
+f111111111f111f1f1111bff
+f111111111f1f11f1111fbff
+f111fff111f1f1fff11f1bff
+ffff999fffffffffffffffff
+fbbbb696999699969996bbbf
+f1111991919191919196111f
+fbbbb696969696969696bbbf
+fbbb9996999699969996bbbf
+ffffffffffffffffffffffff
+`;
+            case "image1":
+            case "ShopBUTTON":return img`
+................................................
+....444444444444444444444444444444444444444444..
+.444eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee4.
+.444eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee4.
+.444eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee4.
+.444e55555555555555555555555555555555555555eee4.
+.444e55511111555155511155551555511111115555eee4.
+.444e55511111555155511155111115511111115555eee4.
+.444e55511111555155511155111115511111115555eee4.
+.444e55515551555155511151111111511155115555eee4.
+.444e55515551555155511151555551511155115555eee4.
+.444e55515555555155511151555551511155115555eee4.
+.444e55515555555155511151555551511155115555eee4.
+.444e55511111555111111151555551511111115555eee4.
+.444e55511111555111111151555551511111115555eee4.
+.444e55555551555155511151555551511155555555eee4.
+.444e55555551555155511151555551511155555555eee4.
+.444e55555551555155511151555551511155555555eee4.
+.444e55555551555155511151555551511155555555eee4.
+.444e55515551555155511151511151511155555555eee4.
+.444e55515551555155511151511151511155555555eee4.
+.444e55515551555155511151111111511155555555eee4.
+.444e55511111555155511155551555511155555555eee4.
+.444e5555555555555555555555555555555555555eeee4.
+.444e5555555555555555555555555555555555555eeee4.
+.444e5555555555555555555555555555555555555eeee4.
+.444eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee4.
+....444444444444444444444444444444444444444444..
+....444444444444444444444444444444444444444444..
+....444444444444444444444444444444444444444444..
+................................................
+................................................
+`;
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+    helpers._registerFactory("json", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.
