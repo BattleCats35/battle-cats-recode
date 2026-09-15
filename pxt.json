@@ -6,7 +6,9 @@
         "sprite-scaling": "*",
         "browser-events": "*",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
-        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.2"
+        "arcade-fancy-text": "github:riknoll/arcade-fancy-text#v0.2.2",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
     },
     "files": [
         "main.blocks",
